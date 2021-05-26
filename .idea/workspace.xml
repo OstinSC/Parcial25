@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e17cd12-7367-45d4-a5fa-1c84ee4b05a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/tarea03/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tarea03/Adaptador/GaleriaImagenes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tarea03/Carrito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tarea03/Fotos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tarea03/ImagenFull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tarea03/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tarea03/MainActivity2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tarea03/Usuarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/assa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/carro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_email_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_input.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/custom_lock_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/doom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/dragon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fotos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_email.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_email_focused.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_lock.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_lock_focused.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/overwacht.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tlou.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/torre.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/usuarios.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/valo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_carrito.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_fotos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_imagen_full.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_usuarios.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/carro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/fotos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/produc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/usuarios.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/tarea03/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3a_API_30_x86]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rSaz7ZZTByjmtkLcoURRuheYt6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3a_API_30_x86" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-26T20:23:43.320Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="Pixel_3a_API_30_x86" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ferna\Escritorio\Universidad 9no Ciclo\Tecnologia Movil\Tarea03 Login mas Datos a otro activity\app\src\main\res\drawable" />
+      <recent name="D:\ferna\Escritorio\Universidad 9no Ciclo\Tecnologia Movil\Tarea03\app\src\main\res\drawable-v24" />
+      <recent name="D:\ferna\Escritorio\Universidad 9no Ciclo\Tecnologia Movil\Tarea03\app\src\main\res\drawable" />
+    </key>
+    <key name="android.template.686915028">
+      <recent name="com.example.tarea03" />
+    </key>
+    <key name="android.template.2070394584">
+      <recent name="com.example.tarea03" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ferna\Escritorio\Universidad 9no Ciclo\Tecnologia Movil\Tarea03 Login mas Datos a otro activity\app\src\main\res\drawable" />
+      <recent name="D:\ferna\Escritorio\Universidad 9no Ciclo\Tecnologia Movil\Tarea03 Login mas Datos a otro activity\app\src\main\res\mipmap-anydpi-v26" />
+      <recent name="D:\ferna\Escritorio\Universidad 9no Ciclo\Tecnologia Movil\Tarea03 Login mas Datos a otro activity\app\src\main\res\drawable-v24" />
+      <recent name="D:\ferna\Escritorio\Universidad 9no Ciclo\Tecnologia Movil\Tarea03\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Tarea03.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e17cd12-7367-45d4-a5fa-1c84ee4b05a1" name="Default Changelist" comment="" />
+      <created>1618972203922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618972203922</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1197" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1621992215113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1197" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1621992215113" />
+    <state x="720" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621990695074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="720" y="259" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621990695074" />
+    <state x="425" y="106" width="1378" height="738" key="AVDManager" timestamp="1619465930991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="425" y="106" width="1378" height="738" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1619465930991" />
+    <state x="980" y="231" key="AndroidCreateResourceFileDialog" timestamp="1619481253006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="980" y="231" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619481253006" />
+    <state x="833" y="267" key="FileChooserDialogImpl" timestamp="1621998092847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="267" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621998092847" />
+    <state x="660" y="483" key="Github.CreateGistDialog" timestamp="1621998034265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="483" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621998034265" />
+    <state x="708" y="442" width="477" height="205" key="Github.ShareDialog" timestamp="1621998150225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="708" y="442" width="477" height="205" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621998150225" />
+    <state x="463" y="285" key="Github.UntrackedFilesDialog" timestamp="1621998170063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="285" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621998170063" />
+    <state width="1527" height="158" key="GridCell.Tab.0.bottom" timestamp="1621997298374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1527" height="158" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621997298374" />
+    <state width="1527" height="158" key="GridCell.Tab.0.center" timestamp="1621997298374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1527" height="158" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621997298374" />
+    <state width="1527" height="158" key="GridCell.Tab.0.left" timestamp="1621997298374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1527" height="158" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621997298374" />
+    <state width="1527" height="158" key="GridCell.Tab.0.right" timestamp="1621997298374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1527" height="158" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621997298374" />
+    <state x="337" y="208" key="SettingsEditor" timestamp="1621998693527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="337" y="208" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621998693527" />
+    <state x="428" y="296" key="Vcs.Push.Dialog.v2" timestamp="1621998006503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="428" y="296" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621998006503" />
+    <state x="1157" y="316" key="chooseDestDirectoryDialog" timestamp="1621995012023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1157" y="316" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621995012023" />
+    <state x="816" y="283" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog" timestamp="1619466102666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="816" y="283" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619466102666" />
+  </component>
+</project>
